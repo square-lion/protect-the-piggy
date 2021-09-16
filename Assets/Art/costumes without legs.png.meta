@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 809371360f66a4d6a9363d53526694a6
+timeCreated: 1512592887
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: slime costume
+    21300002: holo costume
+    21300004: scientist costume
+    21300006: slime pig
+    21300008: holo pig
+    21300010: scientist pig
+    21300012: costumes without legs_6
+    21300014: costumes without legs_7
+    21300016: costumes without legs_8
+    21300018: costumes without legs_9
+    21300020: costumes without legs_10
+    21300022: costumes without legs_11
+    21300024: costumes without legs_12
+    21300026: costumes without legs_13
+    21300028: costumes without legs_14
+    21300030: costumes without legs_15
+    21300032: costumes without legs_16
+    21300034: wood Pig
+    21300036: Stone Pig
+    21300038: Copper Pig
+    21300040: obsidian pig
+    21300042: SilverPig
+    21300044: Emerold Pig
+    21300046: Gold Pig
+    21300048: Diamond Pig
+    21300050: scientist leg
+    21300052: holo legs
+    21300054: slime leg
+    21300056: holo leg
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 128
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 128
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 128
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 128
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: slime costume
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 112
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 7.5}
+        - {x: -4.5, y: -7.5}
+        - {x: 4.5, y: -7.5}
+        - {x: 4.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: holo costume
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 112
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 7.5}
+        - {x: -4.5, y: -7.5}
+        - {x: 4.5, y: -7.5}
+        - {x: 4.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scientist costume
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 112
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 7.5}
+        - {x: -4.5, y: -7.5}
+        - {x: 4.5, y: -7.5}
+        - {x: 4.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime pig
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 99
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 5.5}
+        - {x: -5.5, y: 4.5}
+        - {x: -5.5, y: -5.5}
+        - {x: 5.5, y: -5.5}
+        - {x: 5.5, y: 4.5}
+        - {x: 3.5, y: 5.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: holo pig
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 99
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 5.5}
+        - {x: -5.5, y: -5.5}
+        - {x: 5.5, y: -5.5}
+        - {x: 5.5, y: 4.5}
+        - {x: 3.5, y: 5.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scientist pig
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 99
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 5.5}
+        - {x: -6, y: -3.5}
+        - {x: -5, y: -5.5}
+        - {x: 6, y: -5.5}
+        - {x: 6, y: 4.5}
+        - {x: 4, y: 5.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wood Pig
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 32
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 4.5}
+        - {x: -5.5, y: -4.5}
+        - {x: 5.5, y: -4.5}
+        - {x: 5.5, y: 4.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Stone Pig
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 32
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 4.5}
+        - {x: -5.5, y: -4.5}
+        - {x: 5.5, y: -4.5}
+        - {x: 5.5, y: 4.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Copper Pig
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 32
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 4.5}
+        - {x: -5.5, y: -4.5}
+        - {x: 5.5, y: -4.5}
+        - {x: 5.5, y: 4.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: obsidian pig
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 32
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 4.5}
+        - {x: -5.5, y: -4.5}
+        - {x: 5.5, y: -4.5}
+        - {x: 5.5, y: 4.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SilverPig
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 32
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 4.5}
+        - {x: -5.5, y: -4.5}
+        - {x: 5.5, y: -4.5}
+        - {x: 5.5, y: 4.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Emerold Pig
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 32
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 4.5}
+        - {x: -5.5, y: -4.5}
+        - {x: 5.5, y: -4.5}
+        - {x: 5.5, y: 4.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gold Pig
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 32
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 4.5}
+        - {x: -5.5, y: -4.5}
+        - {x: 5.5, y: -4.5}
+        - {x: 5.5, y: 4.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Diamond Pig
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 32
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 4.5}
+        - {x: -5.5, y: -4.5}
+        - {x: 5.5, y: -4.5}
+        - {x: 5.5, y: 4.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scientist leg
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 109
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime leg
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 109
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: holo leg
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 109
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
