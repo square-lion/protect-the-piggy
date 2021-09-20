@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/IOS Scenes/TouchScreenGame.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
